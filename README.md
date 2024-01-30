@@ -4,5 +4,9 @@
 Simple as possible tool to extract almost every AutoIT script from compiled programs, even firmly secured. Please check the README.md to prevent any future questions "how to it works", or "why does not work for me".
 
 ---
+### https://github.com/Wilenty/7zOverlay
+The 7zOverlay.dll is designed to use original 7z.dll without use of the complicated code and it uses the same parameters as the 7z.exe file.
+
+---
 ### https://github.com/Wilenty/Fast-INI-in-memory-for-AutoIT
 At program starts first you need to load the ini file into memory, and save the config ini before program closes itself, or when the user close configuration options. Saves the ini file in every change does not brings desired effects, especially on slow HDDs and slow USB storage.
